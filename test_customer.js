@@ -1,4 +1,4 @@
-require('dotenv').config({ path: 'env/.env.fastgrid' });
+require('dotenv').config({ path: 'env/.env.customer' });
 const { exec } = require('child_process');
 // const JWTGenerator = require('./jwtGenerator');
 
